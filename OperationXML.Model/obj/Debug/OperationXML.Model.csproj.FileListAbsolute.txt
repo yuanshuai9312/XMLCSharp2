@@ -1,0 +1,16 @@
+D:\VS2015个人学习目录\OperationXML.UI\OperationXML.Model\bin\Debug\OperationXML.Model.dll
+D:\VS2015个人学习目录\OperationXML.UI\OperationXML.Model\bin\Debug\OperationXML.Model.pdb
+D:\VS2015个人学习目录\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.dll
+D:\VS2015个人学习目录\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.pdb
+D:\VS2015个人学习目录\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.csprojResolveAssemblyReference.cache
+D:\VS2017个人学习目录\C#3层架构开发\OperationXML.UI\OperationXML.Model\bin\Debug\OperationXML.Model.dll
+D:\VS2017个人学习目录\C#3层架构开发\OperationXML.UI\OperationXML.Model\bin\Debug\OperationXML.Model.pdb
+D:\VS2017个人学习目录\C#3层架构开发\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.csprojResolveAssemblyReference.cache
+D:\VS2017个人学习目录\C#3层架构开发\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.dll
+D:\VS2017个人学习目录\C#3层架构开发\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.pdb
+D:\code\OperationXML.UI\OperationXML.Model\bin\Debug\OperationXML.Model.dll
+D:\code\OperationXML.UI\OperationXML.Model\bin\Debug\OperationXML.Model.pdb
+D:\code\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.csprojAssemblyReference.cache
+D:\code\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.csproj.CoreCompileInputs.cache
+D:\code\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.dll
+D:\code\OperationXML.UI\OperationXML.Model\obj\Debug\OperationXML.Model.pdb
